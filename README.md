@@ -1,4 +1,4 @@
-## Hi 👋, I'm Parvesshraj
+## Hi 👋, I'm Parvesshrajh
 
 Computer Science student passionate about **Web Development, Problem Solving, and Open Source**.
 
